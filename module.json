@@ -1,0 +1,8 @@
+{
+  "name": "Shadowrun-3E",
+  "title": "Shadowrun 3E - FVTT Module to support 3rd Edition Rolling",
+  "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+  "author": "Weylund",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.5.0"
+}
